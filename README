@@ -1,0 +1,8 @@
+- Die Werte sind von http://www.wahlrecht.de/umfragen/index.htm
+- manuell in readable/* eintragen
+- ./makeusable.sh - erstellt daraus "maschinenlesbare" Dateien
+- ./plotit - plottet die Werte und schreibt sie in die Datei plot.svg
+
+Benötigt:
+ - bash, awk, grep, cat, tr (Standard auf jemdem Unix)
+ - gnuplot 

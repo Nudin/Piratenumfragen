@@ -1,0 +1,21 @@
+#!/usr/bin/gnuplot
+cd 'useable'
+set xrange [240:400]
+set yrange [0:11]
+set xlabel "Tage des nach dem 1.1.2011 (Ein Jahr als 360 Tage)"
+set ylabel "Prozent Stimmen für Piraten laut Umfragen"
+set pointsize 0.7
+plot 'allensbach' with lp	ti "Allensbach", \
+  'emnid'	with lp		ti "Emnid", \
+  'fgw'		with lp		ti "Forsch’gr. Wahlen", \
+  'fgw1'	with points	ti "FgW, Stimmung", \
+  'forsa'	with lp		ti "Forsa", \
+  'gms'		with lp		ti "GMS", \
+  'infra'	with lp		ti "Infratest dimap", \
+  5		with dots	ti ""
+pause 5
+set terminal svg
+set object 1 rect from screen 0, 0, 0 to screen 1, 1, 0 behind
+set object 1 rect fc  rgb "white"  fillstyle solid 1.0
+set output '../plot.svg'
+replot

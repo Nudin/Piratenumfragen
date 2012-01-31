@@ -105,11 +105,11 @@
 	<g transform="translate(510.7,39.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
 	</g>
-	<path  d='M519.0,34.7 L558.4,34.7 M527.1,274.9 L392.8,238.0 L306.5,274.9 L220.2,238.0 '></path>
+	<path  d='M519.0,34.7 L558.4,34.7 M527.1,274.9 L392.8,238.0 L306.5,256.4 L220.2,219.6 '></path>
 	<use xlink:href='#gpPt0' transform='translate(527.1,274.9) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(392.8,238.0) scale(3.15)'/>
-	<use xlink:href='#gpPt0' transform='translate(306.5,274.9) scale(3.15)'/>
-	<use xlink:href='#gpPt0' transform='translate(220.2,238.0) scale(3.15)'/>
+	<use xlink:href='#gpPt0' transform='translate(306.5,256.4) scale(3.15)'/>
+	<use xlink:href='#gpPt0' transform='translate(220.2,219.6) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(538.7,34.7) scale(3.15)'/>
 </g>
 	</a>

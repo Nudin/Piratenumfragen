@@ -1,7 +1,14 @@
 #!/usr/bin/gnuplot
+
+## Variables to config ##
+xmax=400
+ymax=11
+#########################
+
+## Script ##
 cd 'useable'
-set xrange [240:400]
-set yrange [0:11]
+set xrange [240:xmax]
+set yrange [0:ymax]
 set xlabel "Tage des nach dem 1.1.2011 (Ein Jahr als 360 Tage)"
 set ylabel "Prozent Stimmen für Piraten laut Umfragen"
 set pointsize 0.7
@@ -18,4 +25,9 @@ set terminal svg
 set object 1 rect from screen 0, 0, 0 to screen 1, 1, 0 behind
 set object 1 rect fc  rgb "white"  fillstyle solid 1.0
 set output '../plot.svg'
+replot
+
+set xrange [260:xmax]
+set yrange [3:ymax]
+set output '../plot-zoomed.svg'
 replot

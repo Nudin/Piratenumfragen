@@ -188,9 +188,10 @@
 	<g transform="translate(510.7,111.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M519.0,106.7 L558.4,106.7 M520.2,219.5 L494.6,168.8 L469.1,168.8 L443.5,168.8 L421.6,219.5 L396.0,118.1 
-		L370.4,219.5 L344.9,270.3 L319.3,219.5 L293.7,168.8 L268.2,118.1 L242.6,168.8 L217.0,118.1 L195.1,67.4 
-		L169.5,67.4 L144.0,168.8 L118.4,168.8 L92.8,219.5 '></path>
+	<path  d='M519.0,106.7 L558.4,106.7 M542.1,219.5 L520.2,219.5 L494.6,168.8 L469.1,168.8 L443.5,168.8 L421.6,219.5 
+		L396.0,118.1 L370.4,219.5 L344.9,270.3 L319.3,219.5 L293.7,168.8 L268.2,118.1 L242.6,168.8 L217.0,118.1 
+		L195.1,67.4 L169.5,67.4 L144.0,168.8 L118.4,168.8 L92.8,219.5 '></path>
+	<use xlink:href='#gpPt4' transform='translate(542.1,219.5) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(520.2,219.5) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(494.6,168.8) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(469.1,168.8) scale(3.15)'/>
@@ -230,8 +231,9 @@
 	<g transform="translate(510.7,147.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M519.0,142.7 L558.4,142.7 M498.3,270.3 L447.2,270.3 L403.3,270.3 L323.0,270.3 L301.0,219.5 L220.7,219.5 
-		L202.4,219.5 L122.0,168.8 L85.5,371.7 L63.6,396.0 '></path>
+	<path  d='M519.0,142.7 L558.4,142.7 M545.8,270.3 L498.3,270.3 L447.2,270.3 L403.3,270.3 L323.0,270.3 L301.0,219.5 
+		L220.7,219.5 L202.4,219.5 L122.0,168.8 L85.5,371.7 L63.6,396.0 '></path>
+	<use xlink:href='#gpPt6' transform='translate(545.8,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(498.3,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(447.2,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(403.3,270.3) scale(3.15)'/>

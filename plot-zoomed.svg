@@ -126,9 +126,10 @@
 	<g transform="translate(510.7,57.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M519.0,52.7 L558.4,52.7 M534.8,168.8 L509.2,219.5 L483.7,219.5 L458.1,219.5 L410.6,219.5 L385.1,219.5 
-		L359.5,219.5 L333.9,219.5 L308.3,219.5 L282.8,219.5 L257.2,219.5 L231.6,168.8 L209.7,67.4 L184.1,67.4 
-		L158.6,118.1 L133.0,118.1 L107.4,219.5 '></path>
+	<path  d='M519.0,52.7 L558.4,52.7 M556.7,168.8 L534.8,168.8 L509.2,219.5 L483.7,219.5 L458.1,219.5 L410.6,219.5 
+		L385.1,219.5 L359.5,219.5 L333.9,219.5 L308.3,219.5 L282.8,219.5 L257.2,219.5 L231.6,168.8 L209.7,67.4 
+		L184.1,67.4 L158.6,118.1 L133.0,118.1 L107.4,219.5 '></path>
+	<use xlink:href='#gpPt1' transform='translate(556.7,168.8) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(534.8,168.8) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(509.2,219.5) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(483.7,219.5) scale(3.15)'/>

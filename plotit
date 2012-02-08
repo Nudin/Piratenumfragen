@@ -20,14 +20,24 @@ plot 'allensbach' with lp	ti "Allensbach", \
   'gms'		with lp		ti "GMS", \
   'infra'	with lp		ti "Infratest dimap", \
   5		with dots	ti ""
-pause 5
+pause 5 #show it for 5 seconds
+
+# Then plot to svg an png-files
 set terminal svg
 set object 1 rect from screen 0, 0, 0 to screen 1, 1, 0 behind
 set object 1 rect fc  rgb "white"  fillstyle solid 1.0
 set output '../plot.svg'
 replot
+set terminal png
+set output '../plot.png'
+replot
 
+# And plot also zoomed version to svg and png
+set terminal svg
 set xrange [260:xmax]
 set yrange [3:ymax]
 set output '../plot-zoomed.svg'
+replot
+set terminal png
+set output '../plot-zoomed.png'
 replot

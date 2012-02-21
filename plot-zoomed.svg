@@ -130,9 +130,10 @@
 	<g transform="translate(510.7,57.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M519.0,52.7 L558.4,52.7 M517.5,219.5 L495.1,168.8 L475.9,168.8 L453.5,219.5 L431.2,219.5 L408.8,219.5 
-		L367.2,219.5 L344.9,219.5 L322.5,219.5 L300.1,219.5 L277.7,219.5 L255.4,219.5 L233.0,219.5 L210.6,168.8 
-		L191.4,67.4 L169.1,67.4 L146.7,118.1 L124.3,118.1 L102.0,219.5 '></path>
+	<path  d='M519.0,52.7 L558.4,52.7 M539.8,118.1 L517.5,219.5 L495.1,168.8 L475.9,168.8 L453.5,219.5 L431.2,219.5 
+		L408.8,219.5 L367.2,219.5 L344.9,219.5 L322.5,219.5 L300.1,219.5 L277.7,219.5 L255.4,219.5 L233.0,219.5 
+		L210.6,168.8 L191.4,67.4 L169.1,67.4 L146.7,118.1 L124.3,118.1 L102.0,219.5 '></path>
+	<use xlink:href='#gpPt1' transform='translate(539.8,118.1) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(517.5,219.5) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(495.1,168.8) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(475.9,168.8) scale(3.15)'/>
@@ -241,8 +242,9 @@
 	<g transform="translate(510.7,147.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M519.0,142.7 L558.4,142.7 M485.5,270.3 L444.0,270.3 L399.2,270.3 L360.9,270.3 L290.5,270.3 L271.4,219.5 
-		L201.0,219.5 L185.1,219.5 L114.7,168.8 L82.8,371.7 L63.6,396.0 '></path>
+	<path  d='M519.0,142.7 L558.4,142.7 M533.4,270.3 L485.5,270.3 L444.0,270.3 L399.2,270.3 L360.9,270.3 L290.5,270.3 
+		L271.4,219.5 L201.0,219.5 L185.1,219.5 L114.7,168.8 L82.8,371.7 L63.6,396.0 '></path>
+	<use xlink:href='#gpPt6' transform='translate(533.4,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(485.5,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(444.0,270.3) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(399.2,270.3) scale(3.15)'/>

@@ -109,7 +109,8 @@
 	<g transform="translate(510.7,39.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
 	</g>
-	<path  d='M519.0,34.7 L558.4,34.7 M475.6,274.9 L356.2,238.0 L279.5,256.4 L202.8,219.6 '></path>
+	<path  d='M519.0,34.7 L558.4,34.7 M552.3,238.0 L475.6,274.9 L356.2,238.0 L279.5,256.4 L202.8,219.6 '></path>
+	<use xlink:href='#gpPt0' transform='translate(552.3,238.0) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(475.6,274.9) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(356.2,238.0) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(279.5,256.4) scale(3.15)'/>
@@ -189,9 +190,11 @@
 	<g transform="translate(510.7,111.2)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M519.0,106.7 L558.4,106.7 M532.4,164.2 L512.5,164.2 L492.6,164.2 L475.6,164.2 L455.7,127.3 L435.8,127.3 
-		L415.9,127.3 L398.9,164.2 L379.0,90.5 L359.1,164.2 L339.2,201.1 L319.3,164.2 L299.4,127.3 L279.5,90.5 
-		L259.6,127.3 L239.7,90.5 L222.7,53.6 L202.8,53.6 L182.9,127.3 L163.0,127.3 L143.2,164.2 '></path>
+	<path  d='M519.0,106.7 L558.4,106.7 M552.3,127.3 L532.4,164.2 L512.5,164.2 L492.6,164.2 L475.6,164.2 L455.7,127.3 
+		L435.8,127.3 L415.9,127.3 L398.9,164.2 L379.0,90.5 L359.1,164.2 L339.2,201.1 L319.3,164.2 L299.4,127.3 
+		L279.5,90.5 L259.6,127.3 L239.7,90.5 L222.7,53.6 L202.8,53.6 L182.9,127.3 L163.0,127.3 L143.2,164.2 
+		'></path>
+	<use xlink:href='#gpPt4' transform='translate(552.3,127.3) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(532.4,164.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(512.5,164.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(492.6,164.2) scale(3.15)'/>

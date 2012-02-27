@@ -108,9 +108,10 @@
 	<g transform="translate(255.0,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M263.3,426.0 L302.7,426.0 M528.3,78.0 L509.0,139.4 L489.8,108.7 L473.3,108.7 L454.0,139.4 L434.8,139.4 
-		L415.5,139.4 L379.8,139.4 L360.5,139.4 L341.3,139.4 L322.0,139.4 L302.8,139.4 L283.6,139.4 L264.3,139.4 
-		L245.1,108.7 L228.6,47.4 L209.3,47.4 L190.1,78.0 L170.8,78.0 L151.6,139.4 '></path>
+	<path  d='M263.3,426.0 L302.7,426.0 M547.5,78.0 L528.3,78.0 L509.0,139.4 L489.8,108.7 L473.3,108.7 L454.0,139.4 
+		L434.8,139.4 L415.5,139.4 L379.8,139.4 L360.5,139.4 L341.3,139.4 L322.0,139.4 L302.8,139.4 L283.6,139.4 
+		L264.3,139.4 L245.1,108.7 L228.6,47.4 L209.3,47.4 L190.1,78.0 L170.8,78.0 L151.6,139.4 '></path>
+	<use xlink:href='#gpPt1' transform='translate(547.5,78.0) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(528.3,78.0) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(509.0,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(489.8,108.7) scale(3.15)'/>
@@ -209,7 +210,8 @@
 	<g transform="translate(468.7,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>GMS</text>
 	</g>
-	<path  d='M477.0,426.0 L516.4,426.0 M465.0,170.0 L346.8,170.0 L294.6,170.0 L212.1,139.4 '></path>
+	<path  d='M477.0,426.0 L516.4,426.0 M539.3,139.4 L465.0,170.0 L346.8,170.0 L294.6,170.0 L212.1,139.4 '></path>
+	<use xlink:href='#gpPt5' transform='translate(539.3,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(465.0,170.0) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(346.8,170.0) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(294.6,170.0) scale(3.15)'/>

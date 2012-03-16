@@ -6,7 +6,8 @@
  xmlns:xlink="http://www.w3.org/1999/xlink"
 >
 
-<desc>Produced by GNUPLOT 4.4 patchlevel 3 </desc>
+<title>gnuplot</title>
+<desc>Produced by GNUPLOT 4.4 patchlevel 4 </desc>
 
 <defs>
 
@@ -89,7 +90,7 @@
 		<text>Prozent Stimmen für Piraten laut Umfragen</text>
 	</g>
 </g>
-	<a xlink:title="Plot #1">
+	<g id="Plot_1"><title>Plot_1</title>
 <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(263.3,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
@@ -102,8 +103,8 @@
 	<use xlink:href='#gpPt0' transform='translate(188.9,185.4) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(291.3,408.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #2">
+	</g>
+	<g id="Plot_2"><title>Plot_2</title>
 <g style="fill:none; color:green; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(263.3,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
@@ -137,8 +138,8 @@
 	<use xlink:href='#gpPt1' transform='translate(145.4,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(291.3,426.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #3">
+	</g>
+	<g id="Plot_3"><title>Plot_3</title>
 <g style="fill:none; color:blue; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(263.3,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsch’gr. Wahlen</text>
@@ -157,8 +158,8 @@
 	<use xlink:href='#gpPt2' transform='translate(122.4,231.3) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(291.3,444.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #4">
+	</g>
+	<g id="Plot_4"><title>Plot_4</title>
 <g style="fill:none; color:cyan; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(263.3,466.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>FgW, Stimmung</text>
@@ -175,8 +176,8 @@
 	<use xlink:href='#gpPt3' transform='translate(122.4,170.0) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(291.3,462.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #5">
+	</g>
+	<g id="Plot_5"><title>Plot_5</title>
 <g style="fill:none; color:#157545; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(477.0,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
@@ -212,8 +213,8 @@
 	<use xlink:href='#gpPt4' transform='translate(135.2,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(505.0,408.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #6">
+	</g>
+	<g id="Plot_6"><title>Plot_6</title>
 <g style="fill:none; color:#000094; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(477.0,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>GMS</text>
@@ -226,14 +227,16 @@
 	<use xlink:href='#gpPt5' transform='translate(201.7,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(505.0,426.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #7">
+	</g>
+	<g id="Plot_7"><title>Plot_7</title>
 <g style="fill:none; color:#FF9900; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(477.0,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M485.3,444.0 L524.7,444.0 M526.4,139.4 L490.6,170.0 L452.3,170.0 L419.0,170.0 L383.2,170.0 L352.5,170.0 
-		L296.3,170.0 L280.9,139.4 L224.7,139.4 L211.9,139.4 L155.7,108.7 L130.1,231.3 L66.2,292.7 '></path>
+	<path  d='M485.3,444.0 L524.7,444.0 M564.8,170.0 L526.4,139.4 L490.6,170.0 L452.3,170.0 L419.0,170.0 L383.2,170.0 
+		L352.5,170.0 L296.3,170.0 L280.9,139.4 L224.7,139.4 L211.9,139.4 L155.7,108.7 L130.1,231.3 L66.2,292.7 
+		'></path>
+	<use xlink:href='#gpPt6' transform='translate(564.8,170.0) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(526.4,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(490.6,170.0) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(452.3,170.0) scale(3.15)'/>
@@ -249,8 +252,8 @@
 	<use xlink:href='#gpPt6' transform='translate(66.2,292.7) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(505.0,444.0) scale(3.15)'/>
 </g>
-	</a>
-	<a xlink:title="Plot #8">
+	</g>
+	<g id="Plot_8"><title>Plot_8</title>
 <g style="fill:none; color:#0099A1; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<use xlink:href='#gpDot' x='63.6' y='200.7'/>
 	<use xlink:href='#gpDot' x='68.8' y='200.7'/>
@@ -353,7 +356,7 @@
 	<use xlink:href='#gpDot' x='569.8' y='200.7'/>
 	<use xlink:href='#gpDot' x='575.0' y='200.7'/>
 </g>
-	</a>
+	</g>
 <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<path  d='M63.6,16.7 L63.6,354.0 L575.0,354.0 L575.0,16.7 L63.6,16.7 Z '></path>
 </g>

@@ -95,7 +95,8 @@
 	<g transform="translate(263.3,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
 	</g>
-	<path  d='M271.6,408.0 L311.0,408.0 M503.4,200.7 L434.4,231.3 L327.0,200.7 L257.9,216.0 L188.9,185.4 '></path>
+	<path  d='M271.6,408.0 L311.0,408.0 M575.0,200.7 L503.4,200.7 L434.4,231.3 L327.0,200.7 L257.9,216.0 L188.9,185.4 
+		'></path>
 	<use xlink:href='#gpPt0' transform='translate(503.4,200.7) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(434.4,231.3) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(327.0,200.7) scale(3.15)'/>
@@ -109,10 +110,11 @@
 	<g transform="translate(263.3,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M271.6,426.0 L311.0,426.0 M552.0,108.7 L534.1,78.0 L513.6,78.0 L495.7,78.0 L477.8,139.4 L459.9,108.7 
-		L444.6,108.7 L426.7,139.4 L408.8,139.4 L390.9,139.4 L357.7,139.4 L339.8,139.4 L321.9,139.4 L304.0,139.4 
-		L286.1,139.4 L268.2,139.4 L250.3,139.4 L232.4,108.7 L217.0,47.4 L199.1,47.4 L181.2,78.0 L163.3,78.0 
-		L145.4,139.4 '></path>
+	<path  d='M271.6,426.0 L311.0,426.0 M569.9,108.7 L552.0,108.7 L534.1,78.0 L513.6,78.0 L495.7,78.0 L477.8,139.4 
+		L459.9,108.7 L444.6,108.7 L426.7,139.4 L408.8,139.4 L390.9,139.4 L357.7,139.4 L339.8,139.4 L321.9,139.4 
+		L304.0,139.4 L286.1,139.4 L268.2,139.4 L250.3,139.4 L232.4,108.7 L217.0,47.4 L199.1,47.4 L181.2,78.0 
+		L163.3,78.0 L145.4,139.4 '></path>
+	<use xlink:href='#gpPt1' transform='translate(569.9,108.7) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(552.0,108.7) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(534.1,78.0) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(513.6,78.0) scale(3.15)'/>
@@ -182,10 +184,10 @@
 	<g transform="translate(477.0,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M485.3,408.0 L524.7,408.0 M559.7,139.4 L541.8,139.4 L521.3,139.4 L503.4,108.7 L485.5,139.4 L467.6,139.4 
-		L449.7,139.4 L434.4,139.4 L416.5,108.7 L398.6,108.7 L380.7,108.7 L365.3,139.4 L347.4,78.0 L329.5,139.4 
-		L311.6,170.0 L293.7,139.4 L275.8,108.7 L257.9,78.0 L240.0,108.7 L222.1,78.0 L206.8,47.4 L188.9,47.4 
-		L171.0,108.7 L153.1,108.7 L135.2,139.4 '></path>
+	<path  d='M485.3,408.0 L524.7,408.0 M575.0,165.6 L559.7,139.4 L541.8,139.4 L521.3,139.4 L503.4,108.7 L485.5,139.4 
+		L467.6,139.4 L449.7,139.4 L434.4,139.4 L416.5,108.7 L398.6,108.7 L380.7,108.7 L365.3,139.4 L347.4,78.0 
+		L329.5,139.4 L311.6,170.0 L293.7,139.4 L275.8,108.7 L257.9,78.0 L240.0,108.7 L222.1,78.0 L206.8,47.4 
+		L188.9,47.4 L171.0,108.7 L153.1,108.7 L135.2,139.4 '></path>
 	<use xlink:href='#gpPt4' transform='translate(559.7,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(541.8,139.4) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(521.3,139.4) scale(3.15)'/>

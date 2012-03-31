@@ -152,8 +152,9 @@
 	<g transform="translate(263.3,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsch’gr. Wahlen</text>
 	</g>
-	<path  d='M271.6,444.0 L311.0,444.0 M502.9,161.3 L435.5,161.3 L405.3,193.4 L372.8,225.5 L310.0,225.5 L261.2,193.4 
-		L228.6,193.4 L198.4,161.3 L165.9,161.3 L117.1,225.5 '></path>
+	<path  d='M271.6,444.0 L311.0,444.0 M551.8,97.0 L502.9,161.3 L435.5,161.3 L405.3,193.4 L372.8,225.5 L310.0,225.5 
+		L261.2,193.4 L228.6,193.4 L198.4,161.3 L165.9,161.3 L117.1,225.5 '></path>
+	<use xlink:href='#gpPt2' transform='translate(551.8,97.0) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(502.9,161.3) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(435.5,161.3) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(405.3,193.4) scale(3.15)'/>

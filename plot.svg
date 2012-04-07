@@ -180,10 +180,10 @@
 	</g>
 	<g id="gnuplot_plot_5" ><title>gnuplot_plot_5</title>
 <g style="fill:none; color:#157545; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
-	<g transform="translate(477.0,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
+	<g transform="translate(460.4,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M485.3,408.0 L524.7,408.0 M554.1,30.2 L547.1,165.1 L530.8,192.1 L514.6,165.1 L498.3,165.1 L479.7,165.1 
+	<path  d='M468.7,408.0 L508.1,408.0 M554.1,30.2 L547.1,165.1 L530.8,192.1 L514.6,165.1 L498.3,165.1 L479.7,165.1 
 		L463.4,138.1 L447.2,165.1 L430.9,165.1 L414.6,165.1 L400.7,165.1 L384.4,138.1 L368.1,138.1 L351.8,138.1 
 		L337.9,165.1 L321.6,111.1 L305.4,165.1 L289.1,192.1 L272.8,165.1 L256.5,138.1 L240.3,111.1 L224.0,138.1 
 		L207.7,111.1 L193.8,84.2 L177.5,84.2 L161.2,138.1 L145.0,138.1 L128.7,165.1  h0.01'/>	<use xlink:href='#gpPt4' transform='translate(554.1,30.2) scale(3.15)'/>
@@ -214,30 +214,30 @@
 	<use xlink:href='#gpPt4' transform='translate(161.2,138.1) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(145.0,138.1) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(128.7,165.1) scale(3.15)'/>
-	<use xlink:href='#gpPt4' transform='translate(505.0,408.0) scale(3.15)'/>
+	<use xlink:href='#gpPt4' transform='translate(488.4,408.0) scale(3.15)'/>
 </g>
 	</g>
 	<g id="gnuplot_plot_6" ><title>gnuplot_plot_6</title>
 <g style="fill:none; color:#000094; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
-	<g transform="translate(477.0,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
+	<g transform="translate(460.4,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>GMS</text>
 	</g>
-	<path  d='M485.3,426.0 L524.7,426.0 M533.2,192.1 L465.7,165.1 L403.0,192.1 L303.0,192.1 L258.9,192.1 L189.1,165.1 
+	<path  d='M468.7,426.0 L508.1,426.0 M533.2,192.1 L465.7,165.1 L403.0,192.1 L303.0,192.1 L258.9,192.1 L189.1,165.1 
 		 h0.01'/>	<use xlink:href='#gpPt5' transform='translate(533.2,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(465.7,165.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(403.0,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(303.0,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(258.9,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(189.1,165.1) scale(3.15)'/>
-	<use xlink:href='#gpPt5' transform='translate(505.0,426.0) scale(3.15)'/>
+	<use xlink:href='#gpPt5' transform='translate(488.4,426.0) scale(3.15)'/>
 </g>
 	</g>
 	<g id="gnuplot_plot_7" ><title>gnuplot_plot_7</title>
 <g style="fill:none; color:#FF9900; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
-	<g transform="translate(477.0,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
+	<g transform="translate(460.4,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M485.3,444.0 L524.7,444.0 M561.1,84.2 L519.2,192.1 L484.3,165.1 L451.8,192.1 L416.9,192.1 L386.7,192.1 
+	<path  d='M468.7,444.0 L508.1,444.0 M561.1,84.2 L519.2,192.1 L484.3,165.1 L451.8,192.1 L416.9,192.1 L386.7,192.1 
 		L354.2,192.1 L326.3,192.1 L275.1,192.1 L261.2,165.1 L210.0,165.1 L198.4,165.1 L147.3,138.1 L124.0,246.1 
 		L65.9,300.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(561.1,84.2) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(519.2,192.1) scale(3.15)'/>
@@ -254,7 +254,7 @@
 	<use xlink:href='#gpPt6' transform='translate(147.3,138.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(124.0,246.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(65.9,300.0) scale(3.15)'/>
-	<use xlink:href='#gpPt6' transform='translate(505.0,444.0) scale(3.15)'/>
+	<use xlink:href='#gpPt6' transform='translate(488.4,444.0) scale(3.15)'/>
 </g>
 	</g>
 	<g id="gnuplot_plot_8" ><title>gnuplot_plot_8</title>

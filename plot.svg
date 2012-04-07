@@ -237,9 +237,10 @@
 	<g transform="translate(477.0,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M485.3,444.0 L524.7,444.0 M519.2,192.1 L484.3,165.1 L451.8,192.1 L416.9,192.1 L386.7,192.1 L354.2,192.1 
-		L326.3,192.1 L275.1,192.1 L261.2,165.1 L210.0,165.1 L198.4,165.1 L147.3,138.1 L124.0,246.1 L65.9,300.0 
-		 h0.01'/>	<use xlink:href='#gpPt6' transform='translate(519.2,192.1) scale(3.15)'/>
+	<path  d='M485.3,444.0 L524.7,444.0 M561.1,84.2 L519.2,192.1 L484.3,165.1 L451.8,192.1 L416.9,192.1 L386.7,192.1 
+		L354.2,192.1 L326.3,192.1 L275.1,192.1 L261.2,165.1 L210.0,165.1 L198.4,165.1 L147.3,138.1 L124.0,246.1 
+		L65.9,300.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(561.1,84.2) scale(3.15)'/>
+	<use xlink:href='#gpPt6' transform='translate(519.2,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(484.3,165.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(451.8,192.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(416.9,192.1) scale(3.15)'/>

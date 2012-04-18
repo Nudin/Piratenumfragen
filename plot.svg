@@ -92,8 +92,9 @@
 	<g transform="translate(263.3,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
 	</g>
-	<path  d='M271.6,408.0 L311.0,408.0 M510.5,229.1 L446.0,229.1 L386.0,254.1 L292.6,229.1 L232.6,241.6 L172.6,216.6 
-		 h0.01'/>	<use xlink:href='#gpPt0' transform='translate(510.5,229.1) scale(3.15)'/>
+	<path  d='M271.6,408.0 L311.0,408.0 M570.6,104.1 L510.5,229.1 L446.0,229.1 L386.0,254.1 L292.6,229.1 L232.6,241.6 
+		L172.6,216.6  h0.01'/>	<use xlink:href='#gpPt0' transform='translate(570.6,104.1) scale(3.15)'/>
+	<use xlink:href='#gpPt0' transform='translate(510.5,229.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(446.0,229.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(386.0,254.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(292.6,229.1) scale(3.15)'/>
@@ -185,10 +186,12 @@
 	<g transform="translate(460.4,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M468.7,408.0 L508.1,408.0 M550.5,29.2 L532.8,54.2 L526.1,179.1 L510.5,204.1 L495.0,179.1 L479.4,179.1 
-		L461.6,179.1 L446.0,154.1 L430.5,179.1 L414.9,179.1 L399.3,179.1 L386.0,179.1 L370.4,154.1 L354.9,154.1 
-		L339.3,154.1 L326.0,179.1 L310.4,129.1 L294.8,179.1 L279.3,204.1 L263.7,179.1 L248.1,154.1 L232.6,129.1 
-		L217.0,154.1 L201.5,129.1 L188.1,104.1 L172.6,104.1 L157.0,154.1 L141.4,154.1 L125.9,179.1  h0.01'/>	<use xlink:href='#gpPt4' transform='translate(550.5,29.2) scale(3.15)'/>
+	<path  d='M468.7,408.0 L508.1,408.0 M570.6,29.2 L550.5,29.2 L532.8,54.2 L526.1,179.1 L510.5,204.1 L495.0,179.1 
+		L479.4,179.1 L461.6,179.1 L446.0,154.1 L430.5,179.1 L414.9,179.1 L399.3,179.1 L386.0,179.1 L370.4,154.1 
+		L354.9,154.1 L339.3,154.1 L326.0,179.1 L310.4,129.1 L294.8,179.1 L279.3,204.1 L263.7,179.1 L248.1,154.1 
+		L232.6,129.1 L217.0,154.1 L201.5,129.1 L188.1,104.1 L172.6,104.1 L157.0,154.1 L141.4,154.1 L125.9,179.1 
+		 h0.01'/>	<use xlink:href='#gpPt4' transform='translate(570.6,29.2) scale(3.15)'/>
+	<use xlink:href='#gpPt4' transform='translate(550.5,29.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(532.8,54.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(526.1,179.1) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(510.5,204.1) scale(3.15)'/>

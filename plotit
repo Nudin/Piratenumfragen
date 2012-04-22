@@ -1,7 +1,7 @@
 #!/usr/bin/gnuplot
 
 ### Variables to config ###
-xmax=470
+xmax=480
 ymax=13.5
 #########################
 

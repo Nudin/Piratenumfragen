@@ -229,8 +229,9 @@
 	<g transform="translate(460.4,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>GMS</text>
 	</g>
-	<path  d='M468.7,426.0 L508.1,426.0 M494.0,204.1 L432.2,179.1 L374.7,204.1 L283.1,204.1 L242.6,204.1 L178.7,179.1 
-		 h0.01'/>	<use xlink:href='#gpPt5' transform='translate(494.0,204.1) scale(3.15)'/>
+	<path  d='M468.7,426.0 L508.1,426.0 M560.1,54.2 L494.0,204.1 L432.2,179.1 L374.7,204.1 L283.1,204.1 L242.6,204.1 
+		L178.7,179.1  h0.01'/>	<use xlink:href='#gpPt5' transform='translate(560.1,54.2) scale(3.15)'/>
+	<use xlink:href='#gpPt5' transform='translate(494.0,204.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(432.2,179.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(374.7,204.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(283.1,204.1) scale(3.15)'/>

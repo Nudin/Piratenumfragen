@@ -9,5 +9,5 @@
 	  und lädt alle Änderungen nach github hoch
 
 Benötigt:
- - bash, awk, grep, cat, tr (Standard auf jemdem Unix)
+ - bash, awk, grep, cat, tr (Standard auf jedem Unix)
  - gnuplot 

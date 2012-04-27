@@ -139,8 +139,9 @@
 	<g transform="translate(263.3,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsch’gr. Wahlen</text>
 	</g>
-	<path  d='M271.6,444.0 L311.0,444.0 M505.3,193.4 L456.4,257.6 L389.0,257.6 L358.8,289.8 L326.3,321.9 L263.5,321.9 
-		L214.7,289.8 L182.2,289.8 L151.9,257.6 L119.4,257.6 L70.6,321.9  h0.01'/>	<use xlink:href='#gpPt2' transform='translate(505.3,193.4) scale(3.15)'/>
+	<path  d='M271.6,444.0 L311.0,444.0 M568.0,161.3 L505.3,193.4 L456.4,257.6 L389.0,257.6 L358.8,289.8 L326.3,321.9 
+		L263.5,321.9 L214.7,289.8 L182.2,289.8 L151.9,257.6 L119.4,257.6 L70.6,321.9  h0.01'/>	<use xlink:href='#gpPt2' transform='translate(568.0,161.3) scale(3.15)'/>
+	<use xlink:href='#gpPt2' transform='translate(505.3,193.4) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(456.4,257.6) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(389.0,257.6) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(358.8,289.8) scale(3.15)'/>
@@ -159,6 +160,7 @@
 	<g transform="translate(263.3,466.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>FgW, Stimmung</text>
 	</g>
+	<use xlink:href='#gpPt3' transform='translate(568.0,161.3) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(505.3,97.0) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(456.4,289.8) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(389.0,257.6) scale(3.15)'/>

@@ -108,11 +108,11 @@
 	<g transform="translate(263.3,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M271.6,426.0 L311.0,426.0 M572.9,79.2 L558.0,54.2 L543.0,54.2 L528.1,104.1 L513.2,129.1 L500.4,179.1 
-		L485.5,154.1 L470.6,154.1 L455.7,129.1 L438.6,129.1 L423.7,129.1 L408.8,179.1 L393.9,154.1 L381.1,154.1 
-		L366.2,179.1 L351.3,179.1 L336.3,179.1 L308.6,179.1 L293.7,179.1 L278.8,179.1 L263.9,179.1 L249.0,179.1 
-		L234.1,179.1 L219.2,179.1 L204.2,154.1 L191.5,104.1 L176.5,104.1 L161.6,129.1 L146.7,129.1 L131.8,179.1 
-		 h0.01'/>	<use xlink:href='#gpPt1' transform='translate(572.9,79.2) scale(3.15)'/>
+	<path  d='M271.6,426.0 L311.0,426.0 M575.0,79.2 L572.9,79.2 L558.0,54.2 L543.0,54.2 L528.1,104.1 L513.2,129.1 
+		L500.4,179.1 L485.5,154.1 L470.6,154.1 L455.7,129.1 L438.6,129.1 L423.7,129.1 L408.8,179.1 L393.9,154.1 
+		L381.1,154.1 L366.2,179.1 L351.3,179.1 L336.3,179.1 L308.6,179.1 L293.7,179.1 L278.8,179.1 L263.9,179.1 
+		L249.0,179.1 L234.1,179.1 L219.2,179.1 L204.2,154.1 L191.5,104.1 L176.5,104.1 L161.6,129.1 L146.7,129.1 
+		L131.8,179.1  h0.01'/>	<use xlink:href='#gpPt1' transform='translate(572.9,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(558.0,54.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(543.0,54.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(528.1,104.1) scale(3.15)'/>
@@ -250,9 +250,9 @@
 	<g transform="translate(460.4,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M468.7,444.0 L508.1,444.0 M538.8,79.2 L519.6,104.1 L481.2,204.1 L449.3,179.1 L419.4,204.1 L387.5,204.1 
-		L359.8,204.1 L330.0,204.1 L304.4,204.1 L257.5,204.1 L244.7,179.1 L197.8,179.1 L187.2,179.1 L140.3,154.1 
-		L119.0,254.1 L65.7,304.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(538.8,79.2) scale(3.15)'/>
+	<path  d='M468.7,444.0 L508.1,444.0 M575.0,79.2 L538.8,79.2 L519.6,104.1 L481.2,204.1 L449.3,179.1 L419.4,204.1 
+		L387.5,204.1 L359.8,204.1 L330.0,204.1 L304.4,204.1 L257.5,204.1 L244.7,179.1 L197.8,179.1 L187.2,179.1 
+		L140.3,154.1 L119.0,254.1 L65.7,304.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(538.8,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(519.6,104.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(481.2,204.1) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(449.3,179.1) scale(3.15)'/>

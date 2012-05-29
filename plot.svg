@@ -95,8 +95,9 @@
 	<g transform="translate(263.3,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Allensbach</text>
 	</g>
-	<path  d='M271.6,408.0 L311.0,408.0 M495.4,104.1 L444.3,229.1 L389.4,229.1 L338.2,254.1 L258.7,229.1 L207.5,241.6 
-		L156.4,216.6  h0.01'/>	<use xlink:href='#gpPt0' transform='translate(495.4,104.1) scale(3.15)'/>
+	<path  d='M271.6,408.0 L311.0,408.0 M561.7,179.1 L495.4,104.1 L444.3,229.1 L389.4,229.1 L338.2,254.1 L258.7,229.1 
+		L207.5,241.6 L156.4,216.6  h0.01'/>	<use xlink:href='#gpPt0' transform='translate(561.7,179.1) scale(3.15)'/>
+	<use xlink:href='#gpPt0' transform='translate(495.4,104.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(444.3,229.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(389.4,229.1) scale(3.15)'/>
 	<use xlink:href='#gpPt0' transform='translate(338.2,254.1) scale(3.15)'/>
@@ -111,11 +112,12 @@
 	<g transform="translate(263.3,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Emnid</text>
 	</g>
-	<path  d='M271.6,426.0 L311.0,426.0 M556.1,79.2 L540.9,79.2 L529.5,79.2 L516.3,79.2 L503.0,54.2 L489.8,54.2 
-		L476.5,104.1 L463.2,129.1 L451.9,179.1 L438.6,154.1 L425.4,154.1 L412.1,129.1 L397.0,129.1 L383.7,129.1 
-		L370.4,179.1 L357.2,154.1 L345.8,154.1 L332.6,179.1 L319.3,179.1 L306.0,179.1 L281.4,179.1 L268.2,179.1 
-		L254.9,179.1 L241.6,179.1 L228.4,179.1 L215.1,179.1 L201.9,179.1 L188.6,154.1 L177.2,104.1 L164.0,104.1 
-		L150.7,129.1 L137.5,129.1 L124.2,179.1  h0.01'/>	<use xlink:href='#gpPt1' transform='translate(556.1,79.2) scale(3.15)'/>
+	<path  d='M271.6,426.0 L311.0,426.0 M563.6,79.2 L556.1,79.2 L540.9,79.2 L529.5,79.2 L516.3,79.2 L503.0,54.2 
+		L489.8,54.2 L476.5,104.1 L463.2,129.1 L451.9,179.1 L438.6,154.1 L425.4,154.1 L412.1,129.1 L397.0,129.1 
+		L383.7,129.1 L370.4,179.1 L357.2,154.1 L345.8,154.1 L332.6,179.1 L319.3,179.1 L306.0,179.1 L281.4,179.1 
+		L268.2,179.1 L254.9,179.1 L241.6,179.1 L228.4,179.1 L215.1,179.1 L201.9,179.1 L188.6,154.1 L177.2,104.1 
+		L164.0,104.1 L150.7,129.1 L137.5,129.1 L124.2,179.1  h0.01'/>	<use xlink:href='#gpPt1' transform='translate(563.6,79.2) scale(3.15)'/>
+	<use xlink:href='#gpPt1' transform='translate(556.1,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(540.9,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(529.5,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt1' transform='translate(516.3,79.2) scale(3.15)'/>
@@ -156,8 +158,10 @@
 	<g transform="translate(263.3,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsch’gr. Wahlen</text>
 	</g>
-	<path  d='M271.6,444.0 L311.0,444.0 M548.5,129.1 L512.5,129.1 L461.4,154.1 L421.6,204.1 L366.7,204.1 L342.0,229.1 
-		L315.5,254.1 L264.4,254.1 L224.6,229.1 L198.1,229.1 L173.5,204.1 L146.9,204.1 L107.2,254.1  h0.01'/>	<use xlink:href='#gpPt2' transform='translate(548.5,129.1) scale(3.15)'/>
+	<path  d='M271.6,444.0 L311.0,444.0 M565.5,179.1 L548.5,129.1 L512.5,129.1 L461.4,154.1 L421.6,204.1 L366.7,204.1 
+		L342.0,229.1 L315.5,254.1 L264.4,254.1 L224.6,229.1 L198.1,229.1 L173.5,204.1 L146.9,204.1 L107.2,254.1 
+		 h0.01'/>	<use xlink:href='#gpPt2' transform='translate(565.5,179.1) scale(3.15)'/>
+	<use xlink:href='#gpPt2' transform='translate(548.5,129.1) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(512.5,129.1) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(461.4,154.1) scale(3.15)'/>
 	<use xlink:href='#gpPt2' transform='translate(421.6,204.1) scale(3.15)'/>
@@ -178,6 +182,7 @@
 	<g transform="translate(263.3,466.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>FgW, Stimmung</text>
 	</g>
+	<use xlink:href='#gpPt3' transform='translate(565.5,204.1) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(548.5,129.1) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(512.5,129.1) scale(3.15)'/>
 	<use xlink:href='#gpPt3' transform='translate(461.4,79.2) scale(3.15)'/>
@@ -199,11 +204,12 @@
 	<g transform="translate(460.4,412.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Forsa</text>
 	</g>
-	<path  d='M468.7,408.0 L508.1,408.0 M546.6,54.2 L535.2,79.2 L522.0,79.2 L508.7,29.2 L495.4,29.2 L478.4,29.2 
-		L463.2,54.2 L457.6,179.1 L444.3,204.1 L431.1,179.1 L417.8,179.1 L402.6,179.1 L389.4,154.1 L376.1,179.1 
-		L362.9,179.1 L349.6,179.1 L338.2,179.1 L325.0,154.1 L311.7,154.1 L298.5,154.1 L287.1,179.1 L273.8,129.1 
-		L260.6,179.1 L247.3,204.1 L234.1,179.1 L220.8,154.1 L207.5,129.1 L194.3,154.1 L181.0,129.1 L169.7,104.1 
-		L156.4,104.1 L143.2,154.1 L129.9,154.1 L116.6,179.1  h0.01'/>	<use xlink:href='#gpPt4' transform='translate(546.6,54.2) scale(3.15)'/>
+	<path  d='M468.7,408.0 L508.1,408.0 M561.7,29.2 L546.6,54.2 L535.2,79.2 L522.0,79.2 L508.7,29.2 L495.4,29.2 
+		L478.4,29.2 L463.2,54.2 L457.6,179.1 L444.3,204.1 L431.1,179.1 L417.8,179.1 L402.6,179.1 L389.4,154.1 
+		L376.1,179.1 L362.9,179.1 L349.6,179.1 L338.2,179.1 L325.0,154.1 L311.7,154.1 L298.5,154.1 L287.1,179.1 
+		L273.8,129.1 L260.6,179.1 L247.3,204.1 L234.1,179.1 L220.8,154.1 L207.5,129.1 L194.3,154.1 L181.0,129.1 
+		L169.7,104.1 L156.4,104.1 L143.2,154.1 L129.9,154.1 L116.6,179.1  h0.01'/>	<use xlink:href='#gpPt4' transform='translate(561.7,29.2) scale(3.15)'/>
+	<use xlink:href='#gpPt4' transform='translate(546.6,54.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(535.2,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(522.0,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt4' transform='translate(508.7,29.2) scale(3.15)'/>
@@ -245,8 +251,9 @@
 	<g transform="translate(460.4,430.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>GMS</text>
 	</g>
-	<path  d='M468.7,426.0 L508.1,426.0 M504.9,54.2 L446.2,204.1 L391.3,179.1 L340.1,204.1 L258.7,204.1 L222.7,204.1 
-		L165.9,179.1  h0.01'/>	<use xlink:href='#gpPt5' transform='translate(504.9,54.2) scale(3.15)'/>
+	<path  d='M468.7,426.0 L508.1,426.0 M561.7,54.2 L504.9,54.2 L446.2,204.1 L391.3,179.1 L340.1,204.1 L258.7,204.1 
+		L222.7,204.1 L165.9,179.1  h0.01'/>	<use xlink:href='#gpPt5' transform='translate(561.7,54.2) scale(3.15)'/>
+	<use xlink:href='#gpPt5' transform='translate(504.9,54.2) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(446.2,204.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(391.3,179.1) scale(3.15)'/>
 	<use xlink:href='#gpPt5' transform='translate(340.1,204.1) scale(3.15)'/>
@@ -261,9 +268,10 @@
 	<g transform="translate(460.4,448.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:end">
 		<text>Infratest dimap</text>
 	</g>
-	<path  d='M468.7,444.0 L508.1,444.0 M552.3,79.2 L523.9,79.2 L486.0,79.2 L468.9,104.1 L434.8,204.1 L406.4,179.1 
-		L379.9,204.1 L351.5,204.1 L326.9,204.1 L300.4,204.1 L277.6,204.1 L236.0,204.1 L224.6,179.1 L182.9,179.1 
-		L173.5,179.1 L131.8,154.1 L112.8,254.1 L65.5,304.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(552.3,79.2) scale(3.15)'/>
+	<path  d='M468.7,444.0 L508.1,444.0 M565.5,79.2 L552.3,79.2 L523.9,79.2 L486.0,79.2 L468.9,104.1 L434.8,204.1 
+		L406.4,179.1 L379.9,204.1 L351.5,204.1 L326.9,204.1 L300.4,204.1 L277.6,204.1 L236.0,204.1 L224.6,179.1 
+		L182.9,179.1 L173.5,179.1 L131.8,154.1 L112.8,254.1 L65.5,304.0  h0.01'/>	<use xlink:href='#gpPt6' transform='translate(565.5,79.2) scale(3.15)'/>
+	<use xlink:href='#gpPt6' transform='translate(552.3,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(523.9,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(486.0,79.2) scale(3.15)'/>
 	<use xlink:href='#gpPt6' transform='translate(468.9,104.1) scale(3.15)'/>

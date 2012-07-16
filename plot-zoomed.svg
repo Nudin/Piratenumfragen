@@ -88,6 +88,10 @@
 	<g transform="translate(489.8,376.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:middle">
 		<text>1.6</text>
 	</g>
+	<path  d='M540.9,354.0 L540.9,345.0 M540.9,16.7 L540.9,25.7 '></path>
+	<g transform="translate(540.9,376.5)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:middle">
+		<text>1.7</text>
+	</g>
 	<path  d='M63.6,16.7 L63.6,354.0 L575.0,354.0 L575.0,16.7 L63.6,16.7 Z '></path>
 	<g transform="translate(17.6,185.4) rotate(270)" style="stroke:none; fill:black; font-family:Arial; font-size:12.00pt; text-anchor:middle">
 		<text>Prozent Stimmen für Piraten laut Umfragen</text>
